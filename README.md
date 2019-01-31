@@ -1,2 +1,3 @@
 # dsci-100
-Practice
+
+Author: Angela Chen & Crystal Lee
